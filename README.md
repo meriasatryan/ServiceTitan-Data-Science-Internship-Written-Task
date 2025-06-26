@@ -69,15 +69,10 @@ Install pandas via:
 pip install pandas
 \`\`\`
 
----
-
-## License
-
-MIT License
 
 ---
 
 ## Contact
 
-For questions or feedback, please contact [Your Name] at [your.email@example.com].
+For questions or feedback, please contact Meri Asatryan at meri_asatryan@edu.aua.am].
 
